@@ -11,4 +11,4 @@ def plus(a + b):
 print("heeeheee")
 
 name()
-plus(10 + 10)
+plus(10 + 15)
