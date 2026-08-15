@@ -4,11 +4,13 @@
 
 def name():
     print("Marius L. Manarang")
-def plus(a + b):
+    
+def plus(a, b):
     c = a + b
-    print("Equals: " + c)
-
+    print("Equals: ")
+    print(c)
+    
 print("heeeheee")
 
 name()
-plus(10 + 15)
+plus(10, 15)
